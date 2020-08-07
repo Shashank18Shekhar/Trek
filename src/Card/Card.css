@@ -1,0 +1,29 @@
+.de{
+    height: 200px;
+    width: 200px;
+}
+.btn1 {
+    font-weight: bold;
+    margin-top: 30px;
+    color: #f1f1f1;
+    border: #f1f1f1 1px solid;
+    border-width: 1px;
+    border-style: solid;
+    font-family: Oswald;
+    padding: 10px 5px;
+    background-color: hsla(0, 0%, 0%, 0);
+    font-size: 1.25rem;
+    border-radius: 5px;
+    cursor: pointer;
+    overflow: hidden;
+    text-transform: uppercase;
+    margin-right: .5em;
+    font-size: 0.8rem;
+  margin-right: .5em;
+  font-weight: 600 !important;
+  padding: 8px 25px;
+}
+.btn1:hover {
+    background-color: #f1f1f1;
+    color: #000000c0;
+}
