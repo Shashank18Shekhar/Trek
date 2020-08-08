@@ -3,7 +3,7 @@ import React from 'react';
 import classes from './BackgroundVideo.module.css';
 import BackgroundVideo from './BackgroundVideo';
 import Buttons from './Buttons';
-import Services from './Services.js';
+
 
 
 function Home() {

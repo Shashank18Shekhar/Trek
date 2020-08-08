@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import CardList1 from '../Card/CardList1';
 import SearchBox from '../Card/SearchBox';
-import Scroll from '../Card/Scroll';
+//import Scroll from '../Card/Scroll';
 import 'tachyons';
 import data1 from '../data1'
 

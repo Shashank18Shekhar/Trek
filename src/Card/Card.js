@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './Card.css';
-import classes from '../Components/BackgroundVideo.module.css'
+
 
 
  class Card extends React.Component {
