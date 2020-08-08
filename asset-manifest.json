@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Trek/static/css/main.efa452e2.chunk.css",
+    "main.js": "/Trek/static/js/main.f946994a.chunk.js",
+    "main.js.map": "/Trek/static/js/main.f946994a.chunk.js.map",
+    "runtime-main.js": "/Trek/static/js/runtime-main.35f1485b.js",
+    "runtime-main.js.map": "/Trek/static/js/runtime-main.35f1485b.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/Trek/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.5d5501d2.chunk.js": "/Trek/static/js/2.5d5501d2.chunk.js",
+    "static/js/2.5d5501d2.chunk.js.map": "/Trek/static/js/2.5d5501d2.chunk.js.map",
+    "index.html": "/Trek/index.html",
+    "precache-manifest.9fe257fcc64a0b93c1e01b96cf2c8384.js": "/Trek/precache-manifest.9fe257fcc64a0b93c1e01b96cf2c8384.js",
+    "service-worker.js": "/Trek/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/Trek/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.efa452e2.chunk.css.map": "/Trek/static/css/main.efa452e2.chunk.css.map",
+    "static/js/2.5d5501d2.chunk.js.LICENSE.txt": "/Trek/static/js/2.5d5501d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35f1485b.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.5d5501d2.chunk.js",
+    "static/css/main.efa452e2.chunk.css",
+    "static/js/main.f946994a.chunk.js"
+  ]
+}
